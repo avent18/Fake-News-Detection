@@ -57,7 +57,7 @@ Fake-News-Detection/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/avent18/fake-news-detection.git
 cd fake-news-detection
 
 2️⃣ Install Dependencies
