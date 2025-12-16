@@ -46,11 +46,16 @@ Output: News authenticity + confidence score
 
 
 Fake-News-Detection/
+
 │
 ├── app.py                    # Streamlit application
+
 ├── logistic_model.pkl        # Trained Logistic Regression model
+
 ├── tfidf_vectorizer.pkl      # Trained TF-IDF vectorizer
+
 ├── requirements.txt          # Project dependencies
+
 └── README.md                 # Project documentation
 
 
